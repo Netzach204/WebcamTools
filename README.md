@@ -12,9 +12,10 @@ WebcamTools provides basic functionalities for working with webcams. It includes
 ### Installation
 
 1. Clone this repository:
-
+```bash
 git clone https://github.com/Netzach204/WebcamTools.git
 cd WebcamTools
+```
 
 2. Install the required packages:
 ```bash
