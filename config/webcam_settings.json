@@ -1,0 +1,9 @@
+﻿{
+    "0": {
+        "src": 0,
+        "resolution_width": 640,
+        "resolution_height": 480,
+        "fps": 30,
+        "name": "WebcamVideoStream-0"
+    }
+}

@@ -1,4 +1,4 @@
-# WebcamTools Project
+# WebcamTools
 
 WebcamTools provides basic functionalities for working with webcams. It includes tools to list available cameras, perform basic operations on webcam video streams, capture images, and record videos.
 
