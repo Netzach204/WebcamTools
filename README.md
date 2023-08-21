@@ -17,8 +17,9 @@ git clone https://github.com/Netzach204/WebcamTools.git
 cd WebcamTools
 
 2. Install the required packages:
-
+```bash
 pip install opencv-python
+```
 
 ## Usage
 
@@ -26,7 +27,9 @@ pip install opencv-python
 
 The `list_available_cameras.py` script allows you to list all available cameras on your system. Run the script using the following command:
 
+```bash
 python src/list_available_cameras.py
+```
 
 ### Webcam Video Basics
 
@@ -44,5 +47,6 @@ The `webcam_settings.json` file in the `config/` directory holds camera settings
 
 To see how to run multiple cameras, check out the `run_multi_camera.py` script. It demonstrates how to load camera settings, initialize streams, and display feeds from multiple cameras simultaneously.
 
+```bash
 python run_multi_camera.py
-
+```
